@@ -4,6 +4,8 @@
   "description": "A sample Node.js app using Express 4",
   "main": "index.js",
   "scripts": {
+    "postinstall": "bower install",
+    "prestart": "npm install",
     "start": "node index.js"
   },
   "dependencies": {
