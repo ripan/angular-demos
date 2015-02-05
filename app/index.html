@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en" ng-app="angularDemosApp">
+  <head>
+    <meta charset="utf-8">
+    <title>Angularjs Demos</title>
+    <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+    <link href="css/app.css" rel="stylesheet">
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/controllers/controllers.js"></script>
+    <script src="js/directives/directives.js"></script>
+    <script src="js/filters/filters.js"></script>
+    <script src="js/services/services.js"></script>
+  </head>
+  <body>
+    <div ng-include src="'templates/shared/header.html'"></div>
+    <div class="container">
+      <div ng-view></div>
+    </div>
+  </body>
+</html>

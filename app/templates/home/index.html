@@ -1,0 +1,34 @@
+<h3>Sharing data between Parent scope and Child scope</h3>
+<div ng-controller="Parent">
+	parentX = {{x}} <br/>
+	parentY = {{y}} <br/>
+	<div ng-controller="Child">
+		childX = {{x}}<br/>
+		childY = {{y}}<br/>
+		<a ng-click="modifyBothScopes()">modifyBothScopes</a><br>
+		<a ng-click="modifyonlyChildscope()">modifyonlyChildscope</a>
+	</div>
+</div>
+
+<h3>Sharing data using Service – monitor the changes</h3>
+<div ng-controller="ControllerA">
+	ControllerA.X = {{x}}<br/>
+	<a ng-click="incrementDataInService()">incrementDataInService</a><br>
+</div>
+<hr/>
+<div ng-controller="ControllerB">
+	ControllerB.X = {{x}}<br/>
+	<a ng-click="incrementDataInService()">incrementDataInService</a><br>
+</div>
+<h3>Sharing data using Service [like a global variable]</h3>
+<div ng-controller="ControllerC">
+	ControllerA.X = {{x}}<br/>
+	<a ng-click="incrementDataInService()">incrementDataInService</a><br>
+	<a ng-click="syncDataWithService()">syncDataWithService</a><br>
+</div>
+<hr/>
+<div ng-controller="ControllerD">
+	ControllerB.X = {{x}}<br/>
+	<a ng-click="incrementDataInService()">incrementDataInService</a><br>
+	<a ng-click="syncDataWithService()">syncDataWithService</a><br>
+</div>
