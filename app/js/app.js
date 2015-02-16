@@ -4,6 +4,7 @@ var angularDemosApp = angular.module('angularDemosApp', [
 	'filters', 
 	'services',
 	'directives',
+	'ui.bootstrap'
 	]);
 
 var controllers = angular.module('controllers', []);
