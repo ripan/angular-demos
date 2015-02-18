@@ -16,11 +16,27 @@
     <script src="js/directives/directives.js"></script>
     <script src="js/filters/filters.js"></script>
     <script src="js/services/services.js"></script>
+    <script src="js/controllers/map.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/webgl/style.css">
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places,drawing"></script>
+    <script src="js/webgl/CanvasLayer.js"></script>
+    <script src="js/webgl/ShaderProgram.js"></script>
+    <script src="js/webgl/libtess.cat.js"></script>
+    <script src="js/webgl/WebGLLayer.js"></script>
+    <script src="js/webgl/map.js"></script>
   </head>
   <body>
     <div ng-include src="'templates/shared/header.html'"></div>
     <div class="container">
       <div ng-view></div>
+    </div>
+    
+    <div id="headline">
+      <div class="container">
+      </div>
+    </div>
+    <div id="info">
+      <div id="header-map"></div>
     </div>
   </body>
 </html>

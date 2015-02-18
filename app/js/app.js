@@ -19,6 +19,9 @@ angularDemosApp.config(['$routeProvider', function($routeProvider) {
 		templateUrl: "templates/home/index.html",
 		controller: 'HomeController'
 	})
+	.when('/webgl', {
+		templateUrl: "templates/maps/index.html",
+	})
 	.otherwise({
 		redirectTo: '/'
 	});
