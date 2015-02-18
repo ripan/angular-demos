@@ -1,0 +1,2603 @@
+﻿[
+   {
+      "__type":"ECOS.Electric.Maps.Models.PointItem, ECOS.Electric.Maps",
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Rathmore Rd Cnr 24 Stone St Gravesend",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet - Backlight",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234834573,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"DA11 0HP",
+         "PostalSector":"DA12 1",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.44104,
+            0.36811
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Granada Services, A1 Musselburgh",
+         "Conurbation":"Edinburgh",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234834678,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"EH21 8RE",
+         "PostalSector":"EH21 8",
+         "TvArea":"Central Scotland"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.44104,
+            0.36811
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Heworth Metro Station,Gateshead",
+         "Conurbation":"Tyneside",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234835829,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"NE10 0LW",
+         "PostalSector":"NE10 0",
+         "TvArea":"North East"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.44104,
+            0.36811
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Colnbrook By Pass A4 Opposite Lakeside Road",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234836289,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"SL3 0ED",
+         "PostalSector":"SL 3 0",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.48443,
+            -0.50908
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Small Heath Highway 43-57 Adj Rly Bdge,",
+         "Conurbation":"West Midlands",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234841224,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"B10 0HR",
+         "PostalSector":"B 10 0",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.47001,
+            -1.87353
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Harwich & Parkstone Fc, Main Rd, Harwich",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234842165,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"CO12 4AA",
+         "PostalSector":"CO12 3",
+         "TvArea":"East Of England"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.93547,
+            1.27271
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"125 Lower Clapton Road",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet - Backlight",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234842613,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"E5 0NP",
+         "PostalSector":"E  5 8",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.55253,
+            -0.05301
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"EASTBOURNE STATION, ENTERPRISE CENTRE",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234881571,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"BN21 3UE",
+         "PostalSector":"BN21 3",
+         "TvArea":"South and South-East"
+      },
+      "Geometry":{
+         "Coordinates":[
+            50.76988,
+            0.27985
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"SNARGATE STREET 117-120, A20 DOVER",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234881683,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"CT17 9BZ",
+         "PostalSector":"CT17 9",
+         "TvArea":"South and South-East"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.1231,
+            1.31256
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"BLACKHORSE ROAD CNR WEST STREET",
+         "Conurbation":"Bristol",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234881844,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"BS15 8JJ",
+         "PostalSector":"BS15 8",
+         "TvArea":"West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.46161,
+            -2.51211
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"1 TOR Y MYNDD FCG A48 BAGLAN",
+         "Conurbation":"Swansea",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234881911,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"SA12 8LE",
+         "PostalSector":"SA11 2",
+         "TvArea":"Wales"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.62624,
+            -3.81955
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"TUDOR COURT, STATION PARADE, BRIGHTON RD",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet - Scroller",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234881477,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"SM2 5AE",
+         "PostalSector":"SM 2 5",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.35863,
+            -0.19101
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"TESCO - BURNLEY, CENTENARY WAY",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234882081,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"BB11 2HE",
+         "PostalSector":"BB11 2",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.78529,
+            -2.24167
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"629 STANNINGLEY ROAD, BRAMLEY",
+         "Conurbation":"West Yorkshire",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234924646,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"LS13 3HZ",
+         "PostalSector":"LS13 3",
+         "TvArea":"Yorkshire"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.80743,
+            -1.64781
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"NETHERLANDS RD ADJ OAKLEIGH PARK STATION",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234969942,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"N11 1NQ",
+         "PostalSector":"EN 5 1",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.63855,
+            -0.16743
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"138 HIGH ST LOCHEE NR ROUNDABOUT AT CP",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1234970378,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"DD2 3BL",
+         "PostalSector":"DD 2 3",
+         "TvArea":"North Scotland"
+      },
+      "Geometry":{
+         "Coordinates":[
+            56.4723,
+            -3.01146
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"A312 - STAINES RD/HARLINGTON RD",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235175698,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"TW14 9EQ",
+         "PostalSector":"TW14 9",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.45721,
+            -0.41073
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"TOTTENHAM COURT RD 156,CNR GRAFTON WAY",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235175335,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"W1T 7NG",
+         "PostalSector":"W 1T 7",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.52369,
+            -0.13696
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"SUMMERSTOWN/GARRATT LANE",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235177233,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"SW17 0NT",
+         "PostalSector":"SW17 0",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.43351,
+            -0.18575
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"STAMFORD BROOK STN - GOLDHAWK ROAD",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235175429,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"W6 0XA",
+         "PostalSector":"W  6 0",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.49489,
+            -0.24464
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"BRIDGE EMB PINNER RD,OPP HIGH ST 'LITPO1",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235175682,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"HA6 1BP",
+         "PostalSector":"HA 6 1",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.60469,
+            -0.41763
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"LOWER HENLEY RD,FCG READING,CAVERSHAM",
+         "Conurbation":"Reading/Wokingham",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235177986,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"RG4 5LE",
+         "PostalSector":"RG 4 5",
+         "TvArea":"South and South-East"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.46869,
+            -0.95906
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"TOTAL FINA KENTS HILL S BENFLEET",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235178131,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"SS7 5HB",
+         "PostalSector":"SS 7 5",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.55394,
+            0.55919
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"40 HIGH STREET",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235178274,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"EN8 0AD",
+         "PostalSector":"EN 8 9",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.70913,
+            -0.03628
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"BEXHILL RD 445, ST LEONARDS",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235178379,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"TN38 8AR",
+         "PostalSector":"TN38 8",
+         "TvArea":"South and South-East"
+      },
+      "Geometry":{
+         "Coordinates":[
+            50.84831,
+            0.51616
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"SOUTHDOWN ROAD GAS DEPOT",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235178415,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"NR31 0HU",
+         "PostalSector":"NR31 0",
+         "TvArea":"East Of England"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.59106,
+            1.72467
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"A6/A57 - ARDWICK GREEN ROUNDABOUT",
+         "Conurbation":"Greater Manchester",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet - Scroller",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235180055,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"M12 6BW",
+         "PostalSector":"M 12 6",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.47011,
+            -2.2222
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"FOLDS RD ADJ RIBBLE BUS STATION",
+         "Conurbation":"Greater Manchester",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235180199,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"BL1 2SZ",
+         "PostalSector":"BL 1 2",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.58306,
+            -2.42186
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"HOLLINS RD 200",
+         "Conurbation":"Greater Manchester",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235180336,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"OL8 3DQ",
+         "PostalSector":"OL 8 3",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.52549,
+            -2.11735
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"FMR RED ROSE PH 122 OLDHAM ROAD",
+         "Conurbation":"Greater Manchester",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235180358,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"OL16 5RD",
+         "PostalSector":"OL11 1",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.60814,
+            -2.14806
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"OXFORD RD 298,OPP GRAFTON ST",
+         "Conurbation":"Greater Manchester",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet - Scroller",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235180321,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"M13 9NS",
+         "PostalSector":"M 13 9",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.46293,
+            -2.23045
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"STOCKPORT RD 136",
+         "Conurbation":"Greater Manchester",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235180774,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"M34 6AQ",
+         "PostalSector":"M 34 6",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.45142,
+            -2.1115
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"165 STATION ROAD BAMBER BRIDGE",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235181235,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"PR5 6LA",
+         "PostalSector":"PR 5 6",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.73041,
+            -2.66124
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"NORWICH RD / DALES RD",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235178798,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"IP1 4JD",
+         "PostalSector":"IP 1 4",
+         "TvArea":"East Of England"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.07123,
+            1.13336
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"BORDESLEY GREEN RD CNR CHERRYWOOD RD",
+         "Conurbation":"West Midlands",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235181417,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"B9 4UE",
+         "PostalSector":"B  9 4",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.47715,
+            -1.85647
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"NEW ROWLEY RD,NR WARRENS HALL RD",
+         "Conurbation":"West Midlands",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235182135,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"DY2 8AT",
+         "PostalSector":"DY 2 8",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.50033,
+            -2.07237
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"STAFFORD STREET 115, WALSALL",
+         "Conurbation":"West Midlands",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235182317,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"WS2 8DF",
+         "PostalSector":"WS 2 8",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.5936,
+            -1.98628
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"23 PAYNES LANE",
+         "Conurbation":"Coventry/Bedworth",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235182507,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"CV1 5LN",
+         "PostalSector":"CV 2 4",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.40905,
+            -1.49309
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"FROGHALL LANE,OPP NICHOLSON ST",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235182776,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"WA1 1UE",
+         "PostalSector":"WA 1 1",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.39206,
+            -2.60335
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"LONGFORD RD OPP LONGFORD PARK",
+         "Conurbation":"Coventry/Bedworth",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235182947,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"CV6 6EB",
+         "PostalSector":"CV 6 6",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.44691,
+            -1.48673
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"ALBANY RD BETWEEN 120-128",
+         "Conurbation":"Coventry/Bedworth",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235184015,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"CV5 6ND",
+         "PostalSector":"CV 5 6",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.40098,
+            -1.52777
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"QUEENS RD MANOR COURT RD",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235184380,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"CV11 5NA",
+         "PostalSector":"CV11 5",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.52298,
+            -1.48192
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"A61 - CROWN POINT RD, AT BREW KEG DEPOT",
+         "Conurbation":"West Yorkshire",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235185622,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"LS10 1HU",
+         "PostalSector":"LS10 1",
+         "TvArea":"Yorkshire"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.79204,
+            -1.53685
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"PORT RD,NR NEWTOWN RD",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235186830,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"CA2 7AJ",
+         "PostalSector":"CA 2 5",
+         "TvArea":"Border"
+      },
+      "Geometry":{
+         "Coordinates":[
+            54.89398,
+            -2.95251
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"PORT RD,NR NEWTOWN RD",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235187109,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"CA2 7AJ",
+         "PostalSector":"CA 2 5",
+         "TvArea":"Border"
+      },
+      "Geometry":{
+         "Coordinates":[
+            54.89398,
+            -2.95261
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"GARDNER S AT LOONS R LAW, DUNDEE",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235187413,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"DD3 6DJ",
+         "PostalSector":"DD 3 6",
+         "TvArea":"North Scotland"
+      },
+      "Geometry":{
+         "Coordinates":[
+            56.47073,
+            -2.99983
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"SEA RD 111,CNR MAUD ST,FULWELL",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235187445,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"SR6 9EH",
+         "PostalSector":"SR 6 9",
+         "TvArea":"North East"
+      },
+      "Geometry":{
+         "Coordinates":[
+            54.93032,
+            -1.3767
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"ROCHDALE ROAD EAST 14/18",
+         "Conurbation":"Greater Manchester",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235209110,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"OL10 4DX",
+         "PostalSector":"OL10 1",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.59321,
+            -2.21065
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Clarkston Rd Fcg Newlands Rd  Cathcart",
+         "Conurbation":"Greater Glasgow",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235209641,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"G44 4EJ",
+         "PostalSector":"G 44 4",
+         "TvArea":"Central Scotland"
+      },
+      "Geometry":{
+         "Coordinates":[
+            55.81723,
+            -4.26219
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"1 KINGSWAY JUNCTION OLDHAM ROAD",
+         "Conurbation":"Greater Manchester",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235209846,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"OL11 1AL",
+         "PostalSector":"OL16 5",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.60417,
+            -2.14613
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"250 BROWNSIDE ROAD BURNSIDE",
+         "Conurbation":"Greater Glasgow",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235209982,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"G73 3TF",
+         "PostalSector":"G 73 5",
+         "TvArea":"Central Scotland"
+      },
+      "Geometry":{
+         "Coordinates":[
+            55.81668,
+            -4.19794
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"40-42 CASTLE STREET, EDGELEY",
+         "Conurbation":"Greater Manchester",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235210061,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"SK4 1PR",
+         "PostalSector":"SK 3 9",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.40237,
+            -2.16507
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"WATERLOO ROAD C/O UPPER BROOK STREET",
+         "Conurbation":"Greater Manchester",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235210107,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"SK1 3BW",
+         "PostalSector":"SK 1 3",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.40766,
+            -2.1526
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"DENTON ROAD OLD PACKHORSE",
+         "Conurbation":"Greater Manchester",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235210179,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"M16 9EZ",
+         "PostalSector":"M 34 5",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.46747,
+            -2.11537
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"54 DARNLEY STREET GLASGOW",
+         "Conurbation":"Greater Glasgow",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235210502,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"G41 2SE",
+         "PostalSector":"G 41 2",
+         "TvArea":"Central Scotland"
+      },
+      "Geometry":{
+         "Coordinates":[
+            55.84245,
+            -4.2688
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Compstall Rd Adj Bridge Romiley",
+         "Conurbation":"Greater Manchester",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235210949,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"SK6 1NX",
+         "PostalSector":"SK 6 4",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.41382,
+            -2.08825
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"91A LEGRAMS LANE OPP GREYHOUND DRIVE",
+         "Conurbation":"West Yorkshire",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235213300,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"BD5 0DZ",
+         "PostalSector":"BD 7 1",
+         "TvArea":"Yorkshire"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.79169,
+            -1.77629
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"LONG LANE NEAR DURLEY ROAD",
+         "Conurbation":"Liverpool",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235214611,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"Not Supp",
+         "PostalSector":"L  9 7",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.4623,
+            -2.95184
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"LONDON STREET C/O DERBY ROAD.",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235214833,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"L20 8LP",
+         "PostalSector":"PR 9 0",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.6456,
+            -2.99969
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"SLADE RD ERDINGTON BRG WALL",
+         "Conurbation":"West Midlands",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235214970,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"B35 6AE",
+         "PostalSector":"B 23 7",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.51188,
+            -1.85867
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Great Lime Rd At Bridge  Westmoor",
+         "Conurbation":"Tyneside",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235211963,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"NE28 6HS",
+         "PostalSector":"NE12 7",
+         "TvArea":"North East"
+      },
+      "Geometry":{
+         "Coordinates":[
+            55.02837,
+            -1.57908
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"BEARWOOD ROAD 574 C/O ANDERSON RD SMETH",
+         "Conurbation":"West Midlands",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235215527,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"B64 6HF",
+         "PostalSector":"B 66 4",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.47375,
+            -1.96911
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"North Rd cnr cheltenham rd",
+         "Conurbation":"Bristol",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235217132,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"BS6 5QZ",
+         "PostalSector":"BS 6 5",
+         "TvArea":"West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.46891,
+            -2.59279
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"COASTING LTD SPON LANE SOUTH W.BROM",
+         "Conurbation":"West Midlands",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235217221,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"Not Supp",
+         "PostalSector":"B 66 1",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.50598,
+            -1.9919
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"M/BROOK WRKS LWR HORSELEY FIELDS",
+         "Conurbation":"West Midlands",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet - Backlight",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235218091,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"WV14 9JL",
+         "PostalSector":"WV 1 3",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.58475,
+            -2.11203
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"GREEN LANE OPP PARISH LANE",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235219346,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"SE20 7JZ",
+         "PostalSector":"SE20 7",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.4149,
+            -0.04896
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"OTLEY RD OPP CLIFFE LANE BAILDON",
+         "Conurbation":"West Yorkshire",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235212179,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"BD17 7EX",
+         "PostalSector":"BD17 7",
+         "TvArea":"Yorkshire"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.83876,
+            -1.77168
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"365 SALTERHEBBLE HILL,  LONG TERM BOOKING ONLY",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235212251,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"HX1 4PT",
+         "PostalSector":"HX 3 0",
+         "TvArea":"Yorkshire"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.70317,
+            -1.85351
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"74 WHITE HART LANE TOTTENHAM",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235222048,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"N8 0EE",
+         "PostalSector":"N 17 8",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.60518,
+            -0.07196
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"WATERLOO ROAD C/O ALASKA ROAD",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235223035,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"SW4 7XA",
+         "PostalSector":"SE 1 8",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.50379,
+            -0.11161
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Stevenson Road Opp Stevenson Way(In)",
+         "Conurbation":"Sheffield",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235226122,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"S9 3XG",
+         "PostalSector":"S  9 3",
+         "TvArea":"Yorkshire"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.39402,
+            -1.43844
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"46 Holloway Head",
+         "Conurbation":"West Midlands",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet - Ultravision",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235226164,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"B1 1NG",
+         "PostalSector":"B  1 1",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.47416,
+            -1.90179
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Harehills Lane c/o Conway Road (B6159)",
+         "Conurbation":"West Yorkshire",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235226480,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"LS8 5JH",
+         "PostalSector":"LS 8 5",
+         "TvArea":"Yorkshire"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.8133,
+            -1.51362
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"9a Victoria Road. Glasgow",
+         "Conurbation":"Greater Glasgow",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235226515,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"G42 7AD",
+         "PostalSector":"G 42 7",
+         "TvArea":"Central Scotland"
+      },
+      "Geometry":{
+         "Coordinates":[
+            55.84228,
+            -4.26272
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"26 Christchurch Road C/O St. Swithuns Road South",
+         "Conurbation":"Bournemouth",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235226726,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"BH1 3ND",
+         "PostalSector":"BH 1 3",
+         "TvArea":"South and South-East"
+      },
+      "Geometry":{
+         "Coordinates":[
+            50.72272,
+            -1.86122
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Orchard St Nr Moor St, Burton",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235226898,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"DE14 3SJ",
+         "PostalSector":"DE14 3",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.80141,
+            -1.6358
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Samlet Road c/o Midland Road, Swansea",
+         "Conurbation":"Swansea",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235226991,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"SA7 9AL",
+         "PostalSector":"SA 7 9",
+         "TvArea":"Wales"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.66018,
+            -3.90043
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"500 Chester Rd (A56) (Out)",
+         "Conurbation":"Greater Manchester",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235227809,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"M32 0SF",
+         "PostalSector":"M 16 9",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.46349,
+            -2.27243
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Gt Charles St Q'way C/O Livery St,B'ham",
+         "Conurbation":"West Midlands",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235228029,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"B3 2PB",
+         "PostalSector":"B  3 2",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.48401,
+            -1.90064
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"101/103 Town Street",
+         "Conurbation":"West Yorkshire",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235228248,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"LS12 3HD",
+         "PostalSector":"LS12 3",
+         "TvArea":"Yorkshire"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.79653,
+            -1.59419
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Western Rd Adj Ent Southern Water Depot, Southampton Docks",
+         "Conurbation":"Southampton",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235228565,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"SO15 0HH",
+         "PostalSector":"SO15 0",
+         "TvArea":"South and South-East"
+      },
+      "Geometry":{
+         "Coordinates":[
+            50.91069,
+            -1.44562
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Court St/Old Saw Mill",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235228760,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"CF47 8DU",
+         "PostalSector":"CF47 0",
+         "TvArea":"Wales"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.7432,
+            -3.37665
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Howard Street C/O Stonecutters Way",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235230391,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"NR30 1LN",
+         "PostalSector":"NR30 1",
+         "TvArea":"East Of England"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.60774,
+            1.72437
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Nottingham Rd Horse & Jockey Stapleford",
+         "Conurbation":"Nottingham",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235230410,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"NG9 8AA",
+         "PostalSector":"NG 9 8",
+         "TvArea":"Midlands"
+      },
+      "Geometry":{
+         "Coordinates":[
+            52.92961,
+            -1.27369
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Maybells Commercial Estate, Ripple Rd Opp Barking Rugby Club",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235230919,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"IG11 0TT",
+         "PostalSector":"IG11 0",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.53149,
+            0.12774
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Pier Road Opp North Woodwich Ferry Exit N Woolwich",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235231234,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"E16 2LH",
+         "PostalSector":"E 16 2",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.49844,
+            0.05985
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"London Rd South Side C/o Colindale Ave",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235224426,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"AL2 2PY",
+         "PostalSector":"AL 1 1",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.7441,
+            -0.32497
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Wessex Gardens School, Hendon Way (A41), Jct Wessex",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet - Scroller",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235225373,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"NW11 9RR",
+         "PostalSector":"NW 2 1",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.57226,
+            -0.21093
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"150 Albert Rd/Halton View Rd (B5178) (In",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235232201,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"WA8 6LQ",
+         "PostalSector":"WA 8 6",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.3715,
+            -2.72127
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Wakefield Rd Bridge Fcg Out Central",
+         "Conurbation":"West Yorkshire",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235233957,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"BD4 8SR",
+         "PostalSector":"BD 4 7",
+         "TvArea":"Yorkshire"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.78607,
+            -1.73789
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"PEFFERMILL PLAYING FIELDS, PEFFERMILL RD",
+         "Conurbation":"Edinburgh",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235239046,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"EH16 5LJ",
+         "PostalSector":"EH16 5",
+         "TvArea":"Central Scotland"
+      },
+      "Geometry":{
+         "Coordinates":[
+            55.93032,
+            -3.15846
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"ASHFORD RD TEXACO",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235239126,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"ME14 5DA",
+         "PostalSector":"ME14 5",
+         "TvArea":"South and South-East"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.27348,
+            0.53289
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"211,LOWER MORTLAKE RD. RICHMOND.",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235240505,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"TW11 9PB",
+         "PostalSector":"TW 9 2",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.46644,
+            -0.29275
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"RAILWAY EMB (WEST SIDE) TONTEG ROAD",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235240679,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"CF37 5UA",
+         "PostalSector":"CF37 5",
+         "TvArea":"Wales"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.57465,
+            -3.30292
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"A102(M) - STH APPROACH BLACKWALL TUNNEL",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet - Scroller",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235242033,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"SE10 0PU",
+         "PostalSector":"SE10 0",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.49432,
+            0.00525
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"140 SYDENHAM ROAD",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235242415,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"SE26 9AS",
+         "PostalSector":"SE26 5",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.42552,
+            -0.04563
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"Mill Way Cnr Gas Rd nr Asda Sittingbourne",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235253782,
+         "MediaOwner":"Clear Channel Outdoor",
+         "MediaOwnerColour":"#C0C0C0",
+         "PostalCode":"ME10 2QD",
+         "PostalSector":"ME10 2",
+         "TvArea":"South and South-East"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.34779,
+            0.73626
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"73 Mitcham Road/",
+         "Conurbation":"Greater London",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235254497,
+         "MediaOwner":"Adrenalin Advertising",
+         "MediaOwnerColour":"#FF0000",
+         "PostalCode":"N/A",
+         "PostalSector":"SW17 9",
+         "TvArea":"London"
+      },
+      "Geometry":{
+         "Coordinates":[
+            51.42658,
+            -0.16602
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"FORTUNESWELL 68, PORTLAND",
+         "Conurbation":"Unspecified",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235254785,
+         "MediaOwner":"JCDecaux",
+         "MediaOwnerColour":"#0000FF",
+         "PostalCode":"DT5 1LZ",
+         "PostalSector":"DT 5 1",
+         "TvArea":"South West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            50.55954,
+            -2.44264
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   },
+   {
+      "Properties":{
+         "__type":"ECOS.Electric.Maps.Models.FrameItem, ECOS.Electric.Maps",
+         "Address":"SHUDEHILL/ MILLER STREET",
+         "Conurbation":"Greater Manchester",
+         "DimensionCode":"48 Sheets",
+         "Environment":"Roadside",
+         "FormatType":"48 Sheet - Backlight",
+         "FormatgroupColour":"#0000A0",
+         "Id":1235322332,
+         "MediaOwner":"Primesight",
+         "MediaOwnerColour":"#800080",
+         "PostalCode":"M1 2TQ",
+         "PostalSector":"M  4 4",
+         "TvArea":"North West"
+      },
+      "Geometry":{
+         "Coordinates":[
+            53.48617,
+            -2.23639
+         ],
+         "Type":"Point"
+      },
+      "IsSelected":false,
+      "Type":"Frame"
+   }
+]
