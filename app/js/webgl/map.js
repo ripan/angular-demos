@@ -55,9 +55,10 @@
              'features': []
          }
 
-         data = _.first(response, 100)
-         //data = _.filter(data,function(d){return d.Properties.MediaOwner == 'Clear Channel Outdoor'})
-         $.each(data, function(index, val) {
+         //response = _.first(response, 100)
+         //response = _.filter(response,function(d){return d.Properties.MediaOwner == 'Clear Channel Outdoor'})
+
+         $.each(response, function(index, val) {
              var lat = val.Geometry.Coordinates[0]
              var lng = val.Geometry.Coordinates[1]
              var point = {
@@ -70,6 +71,7 @@
                  }
                  //rgb = HEXtoRGB(val.Properties.MediaOwnerColour)
                  //myLayer.features_.points.defaultColor = rgb; //[192,192,192];
+                 //myLayer.changePointColor(index, rgb)
              res.features.push(point);
          });
          myLayer.loadData(res);
@@ -99,8 +101,8 @@
      toastr.info('Creating color spans')
      uniqueMarkerColors = _.uniq(markerColors, 'hex');
      $.each(uniqueMarkerColors, function(index, markerColor) {
-         colorSpan = $('<li>' + markerColor.hex + ' | ' + markerColor.rgb + ' | ' + markerColor.name + '</li>');
-         colorSpan.attr('style', 'background:' + markerColor.hex + '');
+         colorSpan = $('<li>' + markerColor.name + '</li>');
+         colorSpan.attr('style', 'color:' + markerColor.hex + '');
          $('#map-colors').append(colorSpan);
 
      });

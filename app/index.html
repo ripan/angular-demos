@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en" ng-app="angularDemosApp">
-  <head>
+<head>
     <meta charset="utf-8">
     <title>Angularjs Demos</title>
     <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
@@ -28,17 +28,27 @@
     <script src="js/webgl/WebGLLayer.js"></script>
     <script src="js/webgl/map.js"></script>
     <script src="js/webgl/ColorConvertor.js"></script>
-    <script src="//underscorejs.org/underscore.js"></script>    
-  </head>
-  <body>
+    <script src="//underscorejs.org/underscore.js"></script>
+    <script src="//threejs.org/build/three.min.js"></script>
+</head>
+<body>
     <div ng-include src="'templates/shared/header.html'"></div>
-    <div class="container">
-      <div ng-view></div>
+        <!--
+        <div class="container">
+            <div ng-view></div>
+        </div>
+    -->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-3 col-md-2 sidebar">
+                <ul class="nav nav-sidebar" id="map-colors"></ul>
+            </div>
+            <div class="col-sm-9">
+                <div id="info">
+                    <div id="header-map"></div>
+                </div>
+            </div>
+        </div>
     </div>
-    
-    <div id="info">
-      <ul id="map-colors"></ul>
-      <div id="header-map"></div>
-    </div>
-  </body>
+</body>
 </html>

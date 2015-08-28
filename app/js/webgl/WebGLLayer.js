@@ -180,7 +180,7 @@ WebGLLayer.DEFAULT_POINT_VERT_SHADER_ = [
 
     'void main() {',
     '  gl_Position = mapMatrix * worldCoord;',
-    '  gl_PointSize = 2.;',
+    '  gl_PointSize = 5.;',
     '  vColor = aColor;',
     '}'
 ].join('\n');
