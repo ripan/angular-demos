@@ -32,11 +32,26 @@
      // });
 
      google.maps.event.addListenerOnce(map, 'idle', function() {
-         generateFramesData();
+         //generateFramesData();
          //generateShapesData();
      });
 
      myLayer.start(); //Starts the rendering loop.
+
+
+     $('#plotFeaturesBtn').click(function(e) {
+         count = $('input[name=featuresCount]').val();
+         if ($.isNumeric(count)) {
+             toastr.info('Plotting ' + count + ' features');
+             generateData(count);
+         } else {
+             toastr.error('Please enter valid input');
+         }
+     });
+
+     $('#plotEcosFeaturesBtn').click(function(e) {
+         generateFramesData();
+     });
 
  }
 
@@ -57,6 +72,7 @@
 
          //response = _.first(response, 100)
          //response = _.filter(response,function(d){return d.Properties.MediaOwner == 'Clear Channel Outdoor'})
+         toastr.info('Plotting ' + response.length + ' features');
 
          $.each(response, function(index, val) {
              var lat = val.Geometry.Coordinates[0]
@@ -77,12 +93,12 @@
          myLayer.loadData(res);
          updateFeaturesColor(res.features);
          createColorDisplay();
-         toastr.info('Frames Done')
+         toastr.info('Success')
      });
  }
 
  function updateFeaturesColor(features) {
-     toastr.info('Adding colors to frames')
+     //toastr.info('Adding colors to frames')
      $.each(features, function(index, feature) {
          featureName = feature.properties.MediaOwner;
          featureColor = feature.properties.MediaOwnerColour;
@@ -98,7 +114,7 @@
  }
 
  function createColorDisplay() {
-     toastr.info('Creating color spans')
+     //toastr.info('Creating color spans')
      uniqueMarkerColors = _.uniq(markerColors, 'hex');
      $.each(uniqueMarkerColors, function(index, markerColor) {
          colorSpan = $('<li>' + markerColor.name + '</li>');
