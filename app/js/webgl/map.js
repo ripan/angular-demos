@@ -44,9 +44,6 @@
          }
      });
 
-     myLayer.start(); //Starts the rendering loop.
-
-
      $('#plotFeaturesBtn').click(function(e) {
          count = $('input[name=featuresCount]').val();
          if ($.isNumeric(count)) {
@@ -58,9 +55,29 @@
      });
 
      $('#plotEcosFeaturesBtn').click(function(e) {
+
          generateFramesData();
      });
 
+     $('#clearEcosFeaturesBtn').click(function(e) {
+         clearData();
+     });
+
+
+     $('#map-colors').click(function(e) {
+         clearData();
+         generateFramesData({
+             name: e.target.textContent
+         })
+     });
+
+
+
+ }
+
+ function clearData() {
+     myLayer.canvasLayer_.canvas.remove();
+     markerColors = [];
  }
 
  function addCircle(center, radius) {
@@ -80,10 +97,10 @@
              });
 
              var marker = new google.maps.Marker({
-              position: position,
-              map: map,
-              title: 'Hello World!'
-            });
+                 position: position,
+                 map: map,
+                 title: 'Hello World!'
+             });
 
              center = circle.getCenter();
              radius = circle.getRadius();
@@ -91,7 +108,10 @@
      });
  }
 
- function generateFramesData() {
+ function generateFramesData(options) {
+
+     myLayer = new WebGLLayer(map);
+     myLayer.start();
 
      $.ajax({
          url: "/data/frames_70000.json",
@@ -105,9 +125,13 @@
              'type': 'FeatureCollection',
              'features': []
          }
+         if (options && options.name) {
+             response = _.filter(response, function(d) {
+                 return d.Properties.MediaOwner == options.name
+             })
+         }
 
-         //response = _.filter(response,function(d){return d.Properties.MediaOwner == 'Clear Channel Outdoor'})
-         //response = _.first(response, 2)
+         //response = _.first(response, 10)
          toastr.info('Plotting ' + response.length + ' features');
 
          $.each(response, function(index, val) {
