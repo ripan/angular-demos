@@ -2,6 +2,7 @@
  var myLayer;
  var center = new google.maps.LatLng(51.507413, -0.127802);
  var markerColors = []
+ var res;
 
  function initialize() {
      var mapOptions = {
@@ -36,6 +37,13 @@
          //generateShapesData();
      });
 
+     map.addListener('click', function(e) {
+         if (res) {
+             addCircle(e.latLng, 100);
+             console.log(e);
+         }
+     });
+
      myLayer.start(); //Starts the rendering loop.
 
 
@@ -55,6 +63,34 @@
 
  }
 
+ function addCircle(center, radius) {
+     $.each(res.features, function(index, feature) {
+         coords = feature.geometry.coordinates;
+         position = new google.maps.LatLng(coords[1], coords[0]);
+         if (google.maps.geometry.spherical.computeDistanceBetween(center, position) < radius) {
+             var circle = new google.maps.Circle({
+                 strokeColor: '#FF0000',
+                 strokeOpacity: 0.8,
+                 strokeWeight: 2,
+                 fillColor: '#FF0000',
+                 fillOpacity: 0.35,
+                 map: map,
+                 center: position,
+                 radius: radius
+             });
+
+             var marker = new google.maps.Marker({
+              position: position,
+              map: map,
+              title: 'Hello World!'
+            });
+
+             center = circle.getCenter();
+             radius = circle.getRadius();
+         }
+     });
+ }
+
  function generateFramesData() {
 
      $.ajax({
@@ -65,13 +101,13 @@
          }
      }).done(function(response) {
 
-         var res = {
+         res = {
              'type': 'FeatureCollection',
              'features': []
          }
 
-         //response = _.first(response, 100)
          //response = _.filter(response,function(d){return d.Properties.MediaOwner == 'Clear Channel Outdoor'})
+         //response = _.first(response, 2)
          toastr.info('Plotting ' + response.length + ' features');
 
          $.each(response, function(index, val) {
@@ -97,11 +133,21 @@
      });
  }
 
+ function findFeatureIndexById(featureId) {
+     //featureId = "750314";
+     feature = _.find(res.features, function(r) {
+         return r.properties.$id == featureId
+     });
+     index = res.features.indexOf(feature);
+ }
+
  function updateFeaturesColor(features) {
      //toastr.info('Adding colors to frames')
      $.each(features, function(index, feature) {
          featureName = feature.properties.MediaOwner;
          featureColor = feature.properties.MediaOwnerColour;
+         featureId = feature.properties.$id;
+         //findFeatureIndexById(featureId);
          //featureColor = feature.properties.FormatgroupColour;
          rgb = HEXtoRGB(featureColor)
          markerColors.push({
