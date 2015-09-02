@@ -17,7 +17,6 @@
      var mapCanvas = document.getElementById('header-map');
      map = new google.maps.Map(mapCanvas, mapOptions);
 
-     myLayer = new WebGLLayer(map);
 
      google.maps.event.addDomListener(window, 'resize', function() {
          map.setCenter(center);
