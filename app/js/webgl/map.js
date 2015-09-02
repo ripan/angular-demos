@@ -55,7 +55,6 @@
      });
 
      $('#plotEcosFeaturesBtn').click(function(e) {
-
          generateFramesData();
      });
 
@@ -63,14 +62,12 @@
          clearData();
      });
 
-
      $('#map-colors').click(function(e) {
          clearData();
          generateFramesData({
              name: e.target.textContent
          })
      });
-
 
 
  }
@@ -152,7 +149,11 @@
          });
          myLayer.loadData(res);
          updateFeaturesColor(res.features);
-         createColorDisplay();
+         if (options && options.name) {
+          
+         }else{
+          createColorDisplay();
+         }
          toastr.info('Success')
      });
  }
