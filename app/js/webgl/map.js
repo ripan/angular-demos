@@ -3,6 +3,7 @@
  var center = new google.maps.LatLng(51.507413, -0.127802);
  var markerColors = []
  var res;
+ var markers = [];
 
  function initialize() {
      var mapOptions = {
@@ -43,6 +44,32 @@
          }
      });
 
+
+     map.addListener('rightclick', function() {
+         if (map.zoom > 10) {
+             showViewportmarkers();
+         } else {
+             toastr.info('Please increate the zoom to 11 to view the markers. Current zoom is: ' + map.zoom)
+         }
+     });
+
+
+     function showViewportmarkers() {
+         bounds = map.getBounds();
+         invisibleMarkers = _.filter(markers, function(marker) {
+             return !marker.isPresentOnMap;
+         });
+         //toastr.info('invisible markers ' + invisibleMarkers.length)
+         $.each(invisibleMarkers, function(index, marker) {
+             if (bounds.contains(marker.getPosition())) {
+                 icon = 'https://chart.googleapis.com/chart?chst=d_map_xpin_letter&chld=pin||' + marker.settings.color.replace('#', '');
+                 marker.setIcon(icon);
+                 marker.setMap(map);
+                 marker.isPresentOnMap = true;
+             }
+         });
+     }
+
      $('#plotFeaturesBtn').click(function(e) {
          count = $('input[name=featuresCount]').val();
          if ($.isNumeric(count)) {
@@ -72,8 +99,12 @@
  }
 
  function clearData() {
+     $.each(markers, function(index, marker) {
+         marker.setMap(null)
+     });
      myLayer.canvasLayer_.canvas.remove();
      markerColors = [];
+     markers = [];
  }
 
  function addCircle(center, radius) {
@@ -95,6 +126,7 @@
              var marker = new google.maps.Marker({
                  position: position,
                  map: map,
+                 icon: 'https://chart.googleapis.com/chart?chst=d_bubble_icon_text_small&chld=ski|bb|Wheeee!|FFFFFF|000000',
                  title: 'Hello World!'
              });
 
@@ -102,6 +134,20 @@
              radius = circle.getRadius();
          }
      });
+ }
+
+ function addMarker(feature) {
+     coords = feature.geometry.coordinates;
+     position = new google.maps.LatLng(coords[1], coords[0]);
+     var marker = new google.maps.Marker({
+         position: position,
+         settings: {
+             color: feature.properties.MediaOwnerColour
+         },
+         title: feature.properties.MediaOwner,
+         isPresentOnMap: false,
+     });
+     markers.push(marker);
  }
 
  function generateFramesData(options) {
@@ -127,7 +173,7 @@
              })
          }
 
-         //response = _.first(response, 10)
+         //response = _.first(response, 20)
          toastr.info('Plotting ' + response.length + ' features');
 
          $.each(response, function(index, val) {
@@ -145,13 +191,14 @@
                  //myLayer.features_.points.defaultColor = rgb; //[192,192,192];
                  //myLayer.changePointColor(index, rgb)
              res.features.push(point);
+             addMarker(point);
          });
          myLayer.loadData(res);
          updateFeaturesColor(res.features);
          if (options && options.name) {
-          
-         }else{
-          createColorDisplay();
+
+         } else {
+             createColorDisplay();
          }
          toastr.info('Success')
      });
@@ -228,6 +275,10 @@
  }
 
  function generateData(n) {
+
+     myLayer = new WebGLLayer(map);
+     myLayer.start();
+
      var randInRange = function(from, to, fixed) {
          return (Math.random() * (to - from) + from).toFixed(fixed) * 1;
      };
